@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
+  }
+  
+  .footer {
+    margin-top: auto; /* Push the footer to the bottom */
+    background-color: lavender;
+    color: black;
+    text-align: center;
+    padding: 10px;
+  }
+  
